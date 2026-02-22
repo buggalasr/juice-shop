@@ -1,5 +1,5 @@
 variables:
-  IMAGE_NAME: vagile1001/juice-shop
+  IMAGE_NAME: buggalasri/juice-shop
   IMAGE_TAG: 1.0
 
 stages:
